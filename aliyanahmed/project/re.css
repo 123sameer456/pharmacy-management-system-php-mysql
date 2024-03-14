@@ -1,0 +1,55 @@
+body{
+    background-image: url(pharmacy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.card{
+    margin-left: 25%;
+    margin-top: 8%;
+    border: solid black 2px;
+    height: 500px;
+}
+.card-title{
+    text-align: center;
+    
+}
+.card-subtitle{
+    text-align: center;
+}
+.id{
+    margin-left: 20px;
+}
+.name{
+    display: flex;
+    padding-left: 20px;
+}
+.qt{
+    margin-left: 50%;
+    
+}
+.word{
+    margin-left: 25%;
+}
+.word li{
+    display: inline-block;
+    padding-left: 20px;
+    font-weight: bold;
+}
+hr{
+    border: solid black 1px;
+}
+.print{
+margin-left: 60%;
+border: solid black 2px;
+height: 30px;
+background-color: rgb(205, 248, 248);
+width: 100px;
+border-radius: 10px;
+margin-top: 10px;
+}
+
+th,td,tr{
+border:1px solid black;
+padding:10px;
+
+}
